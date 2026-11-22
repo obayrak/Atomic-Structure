@@ -120,4 +120,4 @@ Issues and pull requests are welcome. Useful additions include multiplet terms, 
 
 ## License
 
-[MIT](LICENSE) © 2026 [Your Name]
+[MIT](LICENSE) © 2026 [Orhan Bayrak]
